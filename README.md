@@ -45,7 +45,7 @@ My journey as a web developer has led me to find a passion for cybersecurity, an
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Cisco%20CyberOps-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco CCNA-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ## Projects
