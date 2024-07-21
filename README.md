@@ -8,6 +8,7 @@ Passionate cybersecurity student focused on penetration testing and vulnerabilit
     <img src="https://img.shields.io/badge/-Windows-0074DA?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Ubuntu-9C0D4C?&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Kali Linux-0D0F9C?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+	<img src="https://img.shields.io/badge/-Debian-5B6D7D?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ## Programming Lenguages:
