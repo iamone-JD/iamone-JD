@@ -30,9 +30,6 @@ Passionate cybersecurity student focused on penetration testing and vulnerabilit
 - **Cybersecurity Consultant at Comerzializadora JK** (2020-2022)
 - **Teacher Assistant in 4Geeks Academy LATAM/SPAIN** (2024-Present)
 
-## Education
-- **Bachelor's Degree in Science**, [U.E.Colegio San Lazaro] (2015-2020)
-
 ## Projects
 
 |                 Projects                 |
